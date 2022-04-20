@@ -1,6 +1,3 @@
-- 🔭 I’m currently working on React Js, React Native and PHP (Laravel).
-
-
 <h1 align="center">Hi there 👋, I'm Jean Marcos!</h1>
 
 <h3 align="center">I'm full-stack javascript developer from Brazil</h3>
@@ -29,6 +26,6 @@ const jean = {
 </a> -->
 
 
-[instagram]: https://www.instagram.com/jieean/
+[instagram]: https://www.instagram.com/jieaan/
 [linkedin]: https://www.linkedin.com/in/jean-marcos-80119a117/
 
