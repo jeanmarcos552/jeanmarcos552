@@ -19,8 +19,8 @@ const jean = {
 
 <br/>
 <p align="left">
-  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
-  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
+  <img width="79.5%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
+  <img width="19.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
 </p>
 <br>
 
