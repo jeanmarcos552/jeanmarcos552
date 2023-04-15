@@ -15,9 +15,18 @@ const jean = {
 }
 ```
 
-<!--  ## **GitHub Estatísticas**
+ ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmarcos552&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+<!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
 </a>
 
