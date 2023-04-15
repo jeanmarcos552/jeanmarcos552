@@ -18,21 +18,12 @@ const jean = {
  ## **GitHub Estatísticas**
 
 <br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmarcos552&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
 <br>
 
-<!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a> -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=dracula&line_height=27" alt="JEAN MARCOS"/>
 
 
 [instagram]: https://www.instagram.com/jieaan/
