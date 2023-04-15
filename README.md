@@ -23,7 +23,7 @@ const jean = {
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=dracula&line_height=27" alt="JEAN MARCOS"/>
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=dracula&line_height=27" alt="JEAN MARCOS"/> -->
 
 
 [instagram]: https://www.instagram.com/jieaan/
