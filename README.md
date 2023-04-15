@@ -18,9 +18,9 @@ const jean = {
  ## **GitHub Estatísticas**
 
 <br/>
-<p>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
+<p align="left">
+  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
+  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
 </p>
 <br>
 
