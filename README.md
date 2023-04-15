@@ -18,10 +18,12 @@ const jean = {
  ## **GitHub Estatísticas**
 
 <br/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
+<p>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
+</p>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcos552&theme=dracula&hide_langs_below=1" />
 
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmarcos552&show_icons=true&theme=dracula&line_height=27" alt="JEAN MARCOS"/> -->
 
