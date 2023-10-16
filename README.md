@@ -7,7 +7,19 @@ const jean = {
  const name = "Jean Marcos Vieira da Silva"
  var birthDate = new Date("20/02/1995")
  var acknowledgements = "Full Stack Software Engineer"
- var languages = [ "Typescript", "React", "React Native", "Next.js", "React Testing Library", "Jest", "Flutter", "Node.js", "PHP", "Laravel", "MySql"]
+ var languages = [
+     "Typescript",
+     "React",
+     "React Native",
+     "Next.js",
+     "React Testing Library",
+     "Jest",
+     "Flutter",
+     "Node.js",
+     "PHP",
+     "Laravel",
+     "MySql"
+]
   toString() {
     return `Hi I'm ${this.name}, a ${this.acknowledgements}`;
   }
